@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/test.tsx"],
+  "sourcesContent": ["export default function TestPage() {\n  return (\n    <h1>This is my test page</h1>\n  );\n}"],
+  "mappings": ";;;;;;AAEI;AAFW,SAAR,WAA4B;AACjC,SACE,mDAAC,QAAG,oCAAJ;AAAA;AAAA;AAAA;AAAA,SAAwB;AAE5B;",
+  "names": []
+}

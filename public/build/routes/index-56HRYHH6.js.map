@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/index.tsx"],
+  "sourcesContent": ["import { Link } from '@remix-run/react';\n\nexport default function Index() {\n  return (\n    <section className=\"hero\">\n      <div className=\"wrap container\">\n        <div className=\"bottom\">\n          <div>\n            <h1>Joshua Sanger</h1>\n            <h2>Senior Front End Developer at Shopify</h2>\n            <Link to=\"/projects\" className=\"button white\">View my work</Link>\n          </div>\n        </div>\n      </div>\n    </section>\n  );\n}\n"],
+  "mappings": ";;;;;;;;;AAQY;AANG,SAAR,QAAyB;AAC9B,SACE,mDAAC,aAAQ,WAAU,QACjB,6DAAC,SAAI,WAAU,kBACb,6DAAC,SAAI,WAAU,UACb,6DAAC,SACC;AAAA,uDAAC,QAAG,6BAAJ;AAAA;AAAA;AAAA;AAAA,WAAiB;AAAA,IACjB,mDAAC,QAAG,qDAAJ;AAAA;AAAA;AAAA;AAAA,WAAyC;AAAA,IACzC,mDAAC,QAAK,IAAG,aAAY,WAAU,gBAAe,4BAA9C;AAAA;AAAA;AAAA;AAAA,WAA0D;AAAA,OAH5D;AAAA;AAAA;AAAA;AAAA,SAIA,KALF;AAAA;AAAA;AAAA;AAAA,SAMA,KAPF;AAAA;AAAA;AAAA;AAAA,SAQA,KATF;AAAA;AAAA;AAAA;AAAA,SAUA;AAEJ;",
+  "names": []
+}
